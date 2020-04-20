@@ -59,85 +59,85 @@ arm.rotateCounterClockwise();           // 4) demonstrates CamelCase
 
 
 //  1)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: keyboard
+//  action 1: The keyboard lights up
+keyboard.lightUp();
+//  action 2: The keyboard makes noise
+keyboard.makeNoise();
+//  action 3: The keyboard gets warm
+keyboard.getWarm();
 //  2)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: microphone
+//  action 1: The microphone captures sound
+microphone.capturesSound();
+//  action 2: The microphone vibrates
+microphone.vibrate();
+//  action 3: The microphone converts energy
+microphone.convertEnergy(); 
 //  3)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:car
+//  action 1: The car moves
+car.move();
+//  action 2: The car stops
+car.stop();
+//  action 3: The car heats up
+car.heatUp();
 //  4)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: dog
+//  action 1:The dog runs
+dog.run();
+//  action 2:The dog sits
+dog.sit();
+//  action 3:The dog sleeps
+dog.sleep();
 //  5)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:pen
+//  action 1:The pen writes
+pen.write();
+//  action 2:The pen clicks
+pen.click();
+//  action 3:The pen stains
+pen.stain();
 //  6)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:CPU
+//  action 1:The CPU converts
+cpu.convert();
+//  action 2:The CPU processes
+cpu.process();
+//  action 3: The CPU manages information
+cpu.manageInfo();
 //  7)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: water
+//  action 1: The water boils
+water.boil();
+//  action 2: The water drips
+water.drip();
+//  action 3:The water freezes
+water.freeze();
 //  8)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun: sinewave
+//  action 1: The sinewave changes frequency
+sinewave.changeFrequency();
+//  action 2:The sinewave changes amplitude
+sinewave.changeAmplitude();
+//  action 3:The sinewave changes phase
+sinewave.changePhase();
 //  9)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:internet
+//  action 1:The internet connects
+internet.connect();
+//  action 2:The internet changes protocols 
+internet.changeProtocol();
+//  action 3:disconnects
+internet.breaks();
 //  10)
-//  Noun:
-//  action 1:
-
-//  action 2:
-
-//  action 3:
- 
+//  Noun:console
+//  action 1: The console sums signals
+console.sumChannels();
+//  action 2: The console trims signals
+console.trimSignal();
+//  action 3: The console splits signals
+console.splitSignal();
 
 
 #endif
