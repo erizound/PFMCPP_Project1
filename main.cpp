@@ -117,11 +117,11 @@ water.freeze();
 //  8)
 //  Noun: sinewave
 //  action 1: The sinewave changes frequency
-sinewave.changeFrequency();
+sineWave.changeFrequency();
 //  action 2:The sinewave changes amplitude
-sinewave.changeAmplitude();
+sineWave.changeAmplitude();
 //  action 3:The sinewave changes phase
-sinewave.changePhase();
+sineWave.changePhase();
 //  9)
 //  Noun:internet
 //  action 1:The internet connects
